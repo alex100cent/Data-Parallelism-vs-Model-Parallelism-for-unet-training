@@ -2,7 +2,7 @@
 Training speed of Unet has been compared for two distributed training implementations: 
 model parallelism and data parallelism.  
 
-You can find all the details in this article.
+You can find all the details in [this article](https://medium.com/deelvin-machine-learning/model-parallelism-vs-data-parallelism-in-unet-speedup-1341bc74ff9e).
 
 ### Dataset
 [Dataset link](https://supervise.ly/explore/projects/supervisely-person-dataset-23304/datasets). 
